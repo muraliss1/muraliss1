@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t test .
+docker build -t web:v1 .
